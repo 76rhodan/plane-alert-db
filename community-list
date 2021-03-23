@@ -1,3 +1,10 @@
 ICAO,Ident,Operator,Type,CMPG,$Tag,Tag2,Category
 498422,2801,Czech Air Force,Airbus A319-115CJ,Mil,Tag1,Tag2,Cat
 477FF7,607,Hungarian Air Force,Dassault Falcon 7X,Mil,Tag1,Tag2,Cat
+AE04F2,84-00162,US Army,Beechcraft C-12U-3 Huron,Mil,Tag1,Tag2,Cat
+AE0136,97-00105,US Military,UC-35A Citation,Mil,Tag1,Tag2,Cat
+AE0133,97-00102,US Air Force,Cessna 560 Citation Ultra,Mil,Tag1,Tag2,Cat
+AE04F4,84-00165,US Army,Beechcraft C-12F Huron,Mil,Tag1,Tag2,Cat
+AE0401,84-00156,US Military,Beechcraft C-12U-3 Huron,Mil,Tag1,Tag2,Cat
+AE04AB,99-00102,US Army,Cessna UC-35A Citation Ultra,Mil,Tag1,Tag2,Cat
+3E0A3E,D-HVBQ,Bundespolizei,Eurocopter EC135 T2+,Pol,Tag1,Tag2,Cat
